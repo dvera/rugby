@@ -1,0 +1,10 @@
+Package: rugby
+Type: Package
+Title: R Utilities for the Ucsc Genome Browser
+Version: 0.1
+Date: 2015-09-27
+Author: Daniel Vera vera@genomics.fsu.edu
+Maintainer: Daniel Vera <vera@genomics.fsu.edu>
+Description: A suite of tools to upload tracks to the UCSC genome browser.
+Depends: gplots, parallel, tools, gtools
+License: MIT Lisence
