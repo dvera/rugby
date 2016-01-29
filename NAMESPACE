@@ -1,0 +1,9 @@
+exportPattern("^[[:alpha:]]+")
+
+import(conifur)
+import(gtools)
+import(parallel)
+import(tools)
+import(gplots)
+import(readr)
+export(mclapply)
